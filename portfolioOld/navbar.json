@@ -1,0 +1,20 @@
+[{
+  "name": "About",
+  "link": "#about",
+  "target": "target.None"
+},
+{
+  "name": "Skills",
+  "link": "#skills",
+  "target": "target.None"
+},
+{
+  "name": "Portfolio",
+  "link": "#portfolio",
+  "target": "target.None"
+},
+{
+  "name": "Contact",
+  "link": "#contact",
+  "target": "target.None"
+}]

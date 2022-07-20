@@ -1,0 +1,115 @@
+{
+  "skills": [
+    {
+      "title": "Metologias",
+      "items": [
+        "Scrum",
+        "Kanban"
+      ]
+    },
+    {
+      "title": "Padrões arquiteturais e projetos",
+      "items": [
+        "MVC",
+        "MVVM",
+        "Lazy loading",
+        "Microsserviços",
+        "Flux"
+      ]
+    },
+    {
+      "title": "Front-end",
+      "items": [
+        "React com Hooks e styled components",
+        "Angular versão 2 até a 12",
+        "Boas práticas com componentes próprios, coesos, desacoplados, reutilizáveis e inteligentes",
+        "Micro front-end",
+        "HTML 5 semântico",
+        "Acessibilidade (ARIA)",
+        "CSS-in-JS",
+        "BEM",
+        "CSS 3",
+        "SASS / SCSS",
+        "JavaScript / VanillaJS",
+        "ES / ECMAScript 6+",
+        "Redux",
+        "TypeScript",
+        "Layout responsivo",
+        "Clean code",
+        "SEO com Google Analytics",
+        "Comunicação com webservices/api",
+        "Json",
+        "SPA",
+        "PWA",
+        "Webpack",
+        "Babel",
+        "NPM",
+        "Material e Material UI",
+        "Bootstrap",
+        "Materialize",
+        "Foundation",
+        "Boas práticas de programação, documentação e padrões de projetos",
+        "jQuery"
+      ]
+    },
+    {
+      "title": "Back-end",
+      "items": [
+        "Java 11 e 12",
+        "JWT",
+        "Oauth",
+        "Json",
+        "Webservices / endpoints",
+        "Rest/RESTful",
+        "Spring Security",
+        "Sprint Boot",
+        "Hibernate",
+        "Spring MVC"
+      ]
+    },
+    {
+      "title": "Testes unitários",
+      "items": [
+        "Karma / Jasmine",
+        "PhatomJS",
+        "Jest",
+        "JUnit"
+      ]
+    },
+    {
+      "title": "Deploy, qualidade, monitoração e outros",
+      "items": [
+        "Splunk",
+        "Swagger",
+        "AWS",
+        "Jenkins",
+        "SonarQube",
+        "Fortify",
+        "Testes de integração contínua",
+        "Testes de entrega contínua",
+        "Versionamento de código GIT",
+        "GIT Flow",
+        "Conventional Commits",
+        "Documentações"
+      ]
+    },
+    {
+      "title": "Banco de dados",
+      "items": [
+        "MySQL",
+        "SQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "title": "Uso de prototipação das ferramentas",
+      "items": [
+        "Marvel",
+        "Adobe XD",
+        "InVision",
+        "Figma",
+        "Zeplin"
+      ]
+    }
+  ]
+}
