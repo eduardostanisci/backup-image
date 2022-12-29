@@ -36,8 +36,6 @@
         "Styled components e Emotion",
         "Angular todas as versões",
         "Controle de estado",
-        "Dart",
-        "Flutter",
         "HTML semântico",
         "Acessibilidade ARIA",
         "CSS-in-JS",
@@ -78,6 +76,14 @@
         "Sprint Boot",
         "Hibernate",
         "Spring MVC"
+      ]
+    },
+     {
+      "title": "Desenvolvimento mobile",
+      "items": [
+        "Dart",
+        "Flutter",
+        "React native"
       ]
     },
     {
