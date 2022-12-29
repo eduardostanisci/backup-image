@@ -75,9 +75,9 @@
     {
       "title": "Testes unitários",
       "items": [
+        "Jest",
         "Karma / Jasmine",
         "PhatomJS",
-        "Jest",
         "JUnit"
       ]
     },
@@ -101,6 +101,7 @@
     {
       "title": "Banco de dados",
       "items": [
+        "Redis",
         "MySQL",
         "SQL",
         "MongoDB"
