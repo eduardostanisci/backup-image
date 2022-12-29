@@ -21,7 +21,7 @@
       "title": "Desenvolvimento geral",
       "items": [
         "Boas práticas de programação",
-        "Criação de componentes reutiliáveis, desacoplados e coesos",
+        "Criação de componentes reutilizáveis, desacoplados e coesos",
         "Desenvolvimento pensado na experiência e acessibilidade dos usuários",
         "Clean code / código limpo",
         "Design pattern",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "title": "Front-end",
+      "title": "Desenvolvimento front-end",
       "items": [
         "React com Hooks e styled components",
         "Angular todas as versões",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "title": "Back-end",
+      "title": "Desenvolvimento back-end",
       "items": [
         "NextJS",
         "NodeJS",
