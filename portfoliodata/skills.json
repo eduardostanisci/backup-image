@@ -8,13 +8,24 @@
       ]
     },
     {
-      "title": "Padrões arquiteturais e projetos",
+      "title": "Padrões arquiteturais",
       "items": [
         "MVC",
         "MVVM",
         "Lazy loading",
         "Microsserviços",
         "Flux"
+      ]
+    },
+     {
+      "title": "Desenvolvimento geral",
+      "items": [
+        "Boas práticas de programação",
+        "Criação de componentes reutiliáveis, desacoplados e coesos",
+        "Desenvolvimento pensado na experiência e acessibilidade dos usuários",
+        "Clean code / código limpo",
+        "Design pattern",
+        "Leituras frequentes de documentações"
       ]
     },
     {
@@ -25,20 +36,18 @@
         "Controle de estado",
         "Dart",
         "Flutter",
-        "Boas práticas com componentes próprios, coesos, desacoplados, reutilizáveis e inteligentes",
         "Micro front-end e monorepo",
         "HTML semântico",
-        "Acessibilidade (ARIA)",
+        "Acessibilidade ARIA",
         "CSS-in-JS",
         "BEM",
         "CSS",
-        "SASS / SCSS",
+        "SASS e SCSS",
         "JavaScript / VanillaJS",
         "ES / ECMAScript todas as versões",
         "Redux",
         "TypeScript",
         "Layout responsivo",
-        "Clean code",
         "SEO com Google Analytics",
         "Comunicação com serviços",
         "Json",
@@ -50,8 +59,6 @@
         "Material e Material UI",
         "Bootstrap",
         "Materialize",
-        "Foundation",
-        "Boas práticas de programação, documentação e padrões de projetos",
         "jQuery"
       ]
     },
@@ -95,8 +102,7 @@
         "Testes de entrega contínua",
         "Versionamento de código GIT",
         "GIT Flow",
-        "Conventional Commits",
-        "Documentações"
+        "Conventional Commits"
       ]
     },
     {
