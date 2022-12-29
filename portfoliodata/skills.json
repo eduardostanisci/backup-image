@@ -58,6 +58,8 @@
     {
       "title": "Back-end",
       "items": [
+        "NextJS",
+        "NodeJS"
         "Java 11 e 12",
         "JWT",
         "Oauth",
