@@ -89,10 +89,23 @@
     {
       "title": "Testes",
       "items": [
-        "Cypress",
+        "Casos de testes",
+        "Testes funcionais",
+        "Testes de fumaça",
+        "BDD"
+      ]
+    },
+    {
+      "title": "Testes automatizados",
+      "items": [
+        "Cypress"
+      ]
+    },
+    {
+      "title": "Testes unitários",
+      "items": [
         "Jest",
         "Karma / Jasmine",
-        "PhatomJS",
         "JUnit"
       ]
     },
