@@ -33,7 +33,8 @@
     {
       "title": "Desenvolvimento front-end",
       "items": [
-        "React com Hooks e styled components",
+        "React e Hooks",
+        "Styled components e Emotion",
         "Angular todas as versões",
         "Controle de estado",
         "Dart",
