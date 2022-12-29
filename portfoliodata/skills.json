@@ -11,7 +11,7 @@
       "title": "Padrões arquiteturais",
       "items": [
         "Monorepo",
-        "Micro front-end"
+        "Micro front-end",
         "MVC",
         "MVVM",
         "Lazy loading",
