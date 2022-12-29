@@ -10,6 +10,8 @@
     {
       "title": "Padrões arquiteturais",
       "items": [
+        "Monorepo",
+        "Micro front-end"
         "MVC",
         "MVVM",
         "Lazy loading",
@@ -36,7 +38,6 @@
         "Controle de estado",
         "Dart",
         "Flutter",
-        "Micro front-end e monorepo",
         "HTML semântico",
         "Acessibilidade ARIA",
         "CSS-in-JS",
