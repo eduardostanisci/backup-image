@@ -73,8 +73,9 @@
       ]
     },
     {
-      "title": "Testes unitários",
+      "title": "Testes",
       "items": [
+        "Cypress",
         "Jest",
         "Karma / Jasmine",
         "PhatomJS",
