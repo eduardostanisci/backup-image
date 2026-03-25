@@ -1,6 +1,6 @@
 {
   "content": [
-    "Eduardo Stanisci é desenvolvedor com cerca de 11 anos de experiência em programação, formado em Análise e Desenvolvimento de Sistemas pelo Senac e em constante atualização por meio de cursos e estudo contínuo.",
+    "Eduardo Stanisci é desenvolvedor com cerca de {0} anos de experiência em programação, formado em Análise e Desenvolvimento de Sistemas pelo Senac e em constante atualização por meio de cursos e estudo contínuo.",
     "Atua em projetos de grande escala com metodologias ágeis (Scrum e Kanban), com foco em qualidade, performance, manutenção e experiência do usuário.",
     "Hoje trabalha de forma AI-first: utiliza AI para elevar produtividade e qualidade de entrega, realizando code reviews do código gerado por AI, definindo padrões de qualidade e aplicando automações no fluxo de desenvolvimento, gerando ganhos consistentes e escaláveis."
   ]
